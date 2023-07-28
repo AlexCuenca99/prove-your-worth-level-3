@@ -138,7 +138,7 @@ def send_information(
         "about_me": about_me,
     }
 
-    image_path = open("./written_images.jpg", "rb")
+    image_path = open("./written_image.jpg", "rb")
     resume_path = open("./Alex-C-Resume.pdf", "rb")
     code = open("./code.txt", "rb")
 
