@@ -44,3 +44,5 @@ if __name__ == "__main__":
         write_over_image(image, NAME, ROLE, hashvalue)
 
         send_information(session, payload_uri, NAME, EMAIL, ABOUT_ME)
+
+        session.__exit__()
