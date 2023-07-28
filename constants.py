@@ -1,0 +1,5 @@
+USERNAME = "AlexC"
+NAME = "Alex C."
+ROLE = "Python Backend Developer"
+EMAIL = "alex-patricio1999@hotmail.com"
+ABOUT_ME = "I am an enthusiastic Python developer who applies his current skills, always looking to improve them and above all, learn new ones. So I would like to join you and let your teachings together with my enthusiasm allow us to achieve professional success."
