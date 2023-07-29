@@ -76,7 +76,7 @@ _Below is an example of how you can run the script in your local machine._
    (ini-dev) touch .env 
    ```
 
-   Inside it copy content from [.env.dist]() and add the correct URI's to the server.
+   Inside it copy content from [.env.dist](https://github.com/AlexCuenca99/prove-your-worth-level-3/blob/aabec5e60193a5f6c2d2dacaad9cbaa8439afcb8/.env.dist) and add the correct URI's to the server.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
